@@ -1,10 +1,16 @@
 _repo: The-Dardanelles-Colour-Sketches-From-Gallipoli_48754
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48754-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilkinson, Norman
     gutenberg_agent_id: '44964'
     url: http://www.gutenberg.org/2009/agents/44964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48754#The-Dardanelles-Colour-Sketches-From-Gallipoli
 gutenberg_issued: '2015-04-23'
 gutenberg_type: Text
 identifiers:
